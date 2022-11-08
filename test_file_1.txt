@@ -1,4 +1,8 @@
 This is our first test file
 
 
-I adde some new changes
+I added some new changes
+
+
+
+this is our new feature
